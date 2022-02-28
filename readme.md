@@ -1,4 +1,4 @@
-# Create a Responsive Page!
+# Create a Responsive Page! (not totally finished yet!!!)
 
 Task is taken from "BitDegree" online "Front-end web development course" assignment (Sprint-5, Lesson 8).
 
